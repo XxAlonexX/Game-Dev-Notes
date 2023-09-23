@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "b3add09e89349b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c59a8494fce455ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80973188b0b6104a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/01_Basic_Concepts.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27832f7c163bc8ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0dca3600d2e1f45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b179944be42ac3db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac12524a6c350ae6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9147f36f92150f4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46157b0fd331f0d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a323f02f285508f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a83de03eca10700",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/01_Basic_Concepts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11beb180d37aa9e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/01_Basic_Concepts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8324213cce1b66ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d83e0be30868dfb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/01_Basic_Concepts.md"
+              }
+            }
+          },
+          {
+            "id": "91bc05e52cb81085",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "80973188b0b6104a",
+  "lastOpenFiles": [
+    "Notes/02_Functions_and_Methods.md",
+    "Notes/03_Object_Orinted_Programming.md",
+    "Notes/04_Exception_Handling.md",
+    "Notes/05_Collections_and_Generics.md",
+    "Notes/06_File_Input_Output.md",
+    "Notes/07_Graphical_User_Interface_(GUI).md",
+    "Notes/08_Advanced_Topics.md",
+    "Notes/01_Basic_Concepts.md",
+    "Codes/Basics.cs",
+    "Codes",
+    "02_Operators.md",
+    "Notes/desktop.ini",
+    "Notes",
+    "Notex",
+    "New folder"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "5082d3e314b28f1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7af8f67c0e8e1976",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3139916881444c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/01_Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38b550a884f0f8b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae8a6e93d00392fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f4379846cf64d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1feb68f1e875342",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55f1e5fe76d2c2b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b67787426fbdb801",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2a044286f542802",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c7a64076d0446d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a8320f008f5a81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/01_Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3625682bdf366318",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/01_Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de062d5ba76804c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6844b0cbfd02cb3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/01_Basics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b3139916881444c0",
+  "lastOpenFiles": [
+    "01_Basics.md",
+    "Images/Life_Cycle_Of_Game.jpg",
+    "Images/desktop.ini",
+    "Images",
+    "New folder",
+    "Codes/Driver_Class.java",
+    "Codes/badlogic_code.java",
+    "01_Getting_Started.md",
+    "Codes/Extending_Class.java",
+    "Codes/desktop.ini",
+    "Codes"
+  ]
+}

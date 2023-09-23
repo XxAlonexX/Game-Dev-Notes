@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "11cef4574c5113a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "52fe5f37b737ee4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c7852bd100a913d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/01_Algorithm_Complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3ca2b08209c7a5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "756df634cd72702f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45b0a4ff23de5eb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f2ec04b0b217af1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb355b95cc21301b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a84e23f71d3fa491",
+    "type": "split",
+    "children": [
+      {
+        "id": "385f76c8595dcd4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d98cc2a362ba63d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/01_Algorithm_Complexity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d2b6d6497640dc5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/01_Algorithm_Complexity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0406b86110e785e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "643f0fdcf7f252fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/01_Algorithm_Complexity.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1c7852bd100a913d",
+  "lastOpenFiles": [
+    "C++ Data Structures and Algorithms Cheat Sheet.md",
+    "Notes/desktop.ini",
+    "Notes/01_Algorithm_Complexity.md",
+    "Notes/02_Data_Structure.md",
+    "Notes/03_Algorithms.md",
+    "Notes/04_Advanced_Topics.md",
+    "Roadmap (DSA).md",
+    "Untitled",
+    "Notes"
+  ]
+}

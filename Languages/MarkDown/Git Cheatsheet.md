@@ -1,0 +1,6 @@
+- git init
+- git add --all
+- git commit -m "First Commit"
+- git branch -M main
+- git add remote origin `<origin ssh url>`
+- git push -u origin main
