@@ -11,12 +11,8 @@
             "id": "834e8bdd28deb34b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game_Dev_Companies_Info.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game_Dev_Companies_Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game_Dev_Companies_Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game_Dev_Companies_Info.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,8 @@
   },
   "active": "834e8bdd28deb34b",
   "lastOpenFiles": [
-    "Pasted image 20230923122045.png",
     "Game_Dev_Companies_Info.md",
+    "Pasted image 20230923122045.png",
     "().md",
     "01_Cartesian_Cordinate_System.md",
     "Game_Dev_Companies_Info01.md"

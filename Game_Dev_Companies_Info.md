@@ -194,5 +194,3 @@ Profile :  [LInkedIN](https://www.linkedin.com/in/nikhil-nath-singh-914368a5/?or
 
 
 
-
-> CrunchBase.com can provide personal verified emails.
