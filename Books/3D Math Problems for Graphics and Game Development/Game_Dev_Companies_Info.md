@@ -41,7 +41,7 @@ Email : Contact@pixalotlabs.com
 ## The Game Bakers (Indore, Madhya Pradesh)
 #### Contact
 Website : [The Game Bakers](https://thegamebakers.com)
-Twitter Handle : [@thegamebakers](http://www.twitter.com/thegamebakers)
+X Handle : [@thegamebakers](http://www.twitter.com/thegamebakers)
 
 ## GameMonk (Chandigarh, Punjab)
 #### Contact
@@ -116,13 +116,35 @@ Website : [Dream11](https://www.dream11.com/)
 ## MPL (Bengaluru, Karnataka)
 #### Contact
 Website : [MPL](https://help.mpl.live/)
-- Nazara Technologies (Mumbai, Maharashtra)
-- Gameloft India (Bengaluru, Karnataka)
-- Ubisoft India (Pune, Maharashtra)
-- Zynga India (Bengaluru, Karnataka)
-- Electronic Arts India (Bengaluru, Karnataka)
-- Rovio India (Bengaluru, Karnataka)
-- Rockstar Games India (Bengaluru, Karnataka)
+## Nazara Technologies (Mumbai, Maharashtra)
+#### Contact
+Email :  [HR](mailto:sonal.navale@nazara.com)
+Address :  Nazara Technologies Ltd., 51-54, Maker Chambers III, Nariman Point, Mumbai 400021 CIN: L72900MH1999PLC122970
+Phone : +91-22-40330800
+Website : [Nazara](https://www.nazara.com/?page_id=1653)
+## Gameloft India (Bengaluru, Karnataka)
+#### Contact
+X Handle : [GameLoft IN](https://twitter.com/gameloftin)
+## Ubisoft India (Pune, Maharashtra)
+#### Contact
+Website :  [Ubisoft IN](https://www.ubisoft.com/en-us/company/careers/search?query=Game%2520De&countries=in)
+Address : Kumar Cerebrum IT Park, B3-5th floor, Behind Gold Adlabs, Kalyaninagar, Pune - 411014, Maharashtra
+## Zynga India (Bengaluru, Karnataka)
+#### Contact
+Website : [Zynga IN](https://www.zynga.com/international-location/bengaluru-india/)
+Address : 4th & 5th Floor, Prestige Falcon Tower, Municipal no 19, Brunton Rd, Craig Park Layout, Richmond Town, Bengaluru, Karnataka 560025
+## Electronic Arts India (Bengaluru, Karnataka)
+#### Contact
+Address : C9PP+383, Vega Block, Ascendas IT Park, Hitech City, Hyderabad, Telangana 500081
+Phone : 04040365100
+Website : [EA](https://ea.gr8people.com/jobs?geo_location=ChIJx9Lr6tqZyzsRwvu6koO3k64)
+## Rovio India (Bengaluru, Karnataka)
+#### Contact
+// Shutdown After the merge
+## Rockstar Games India (Bengaluru, Karnataka)
+#### Contact
+Website: [Rockstar Games](https://www.rockstargames.com/careers/offices/rockstar-india)
+Profile :  [LInkedIN](https://www.linkedin.com/in/nikhil-nath-singh-914368a5/?originalSubdomain=in)
 # Other Companies
 - Aceviral Technologies (Bengaluru, Karnataka)
 - Agate Games (Pune, Maharashtra)
