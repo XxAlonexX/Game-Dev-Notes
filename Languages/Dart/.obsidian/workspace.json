@@ -4,19 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "622e12b315ebcc90",
+        "id": "1edb8cc20c24cf0a",
         "type": "tabs",
         "children": [
           {
-            "id": "8670d9ca9656599c",
+            "id": "76c3b0390ce6ac65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "05_Flutter_Basic_Project.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "ab71092a41b0ca90",
+            "id": "0816fa6dab658740",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab71092a41b0ca90",
+  "active": "0816fa6dab658740",
   "lastOpenFiles": [
+    "06_Advanced_Topics.md",
+    "05_Flutter_Basic_Project.md",
+    "04_Testing_and_Debugging.md",
+    "03_Error_Handling_&_Asynchronous Programming.md",
+    "02_Dart_Libraries_and_Packages.md",
     "01_Dart_Basics_&_Oops.md"
   ]
 }
