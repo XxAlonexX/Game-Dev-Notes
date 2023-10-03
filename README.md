@@ -34,7 +34,7 @@ Ready to embark on your game development journey? Here's how you can get started
 ## Contributing
 I welcome contributions from the game development community! If you have knowledge, code, or resources to share, please feel free to open a pull request. Let's learn and grow together!
 
-## Connect with Mee
+## Connect with Me
 
 Have questions, ideas, or want to connect with fellow game developers? Join our community on [Discord](https://discord.gg/984812117288976424) and follow us on [Twitter](https://twitter.com/FanWidoutPlay).
 
